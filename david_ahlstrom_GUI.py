@@ -1,21 +1,3 @@
-# -------------------------------------------------------------------------------
-# Final Project: Banking Application
-# Name: David Ahlstrom
-# Python Version:  3.7.8
-#-------------------------------------------------------------------------------
-# Honor Code Statement: I received no assistance on this assignment that
-#                       violates the ethical guidelines as set forth by the
-#                       instructor and the class syllabus.
-#-------------------------------------------------------------------------------
-# References: Slides and example code in weekly content
-#-------------------------------------------------------------------------------
-# Comments to grader: N/A
-#-------------------------------------------------------------------------------
-# Code:
-#-------------------------------------------------------------------------------
-
-
-
 from tkinter import *
 from david_ahlstrom_CLASS import Saving, Checking, Account, Bank
 from david_ahlstrom_UTILITY import create_account_no
